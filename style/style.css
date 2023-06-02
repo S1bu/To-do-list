@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color:teal;
+    padding: 10px;
+}
+.logo{
+    font-size: 40px;
+    font-weight: 900;
+    color: white;
+}
