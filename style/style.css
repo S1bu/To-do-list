@@ -40,3 +40,11 @@ input{
     flex-direction: row;
     justify-content: center;
 }
+
+li{
+    padding: 10px;
+    background-color: teal;
+    border:1px solid white;
+    color: white;
+    font-weight: 800;
+}
