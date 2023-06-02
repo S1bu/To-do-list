@@ -7,8 +7,36 @@ header{
     background-color:teal;
     padding: 10px;
 }
+
 .logo{
     font-size: 40px;
     font-weight: 900;
     color: white;
+    text-align: center;
+}
+.container{
+    text-align: center;
+}
+button{
+    padding: 10px;
+    border: 1px solid white;
+    background-color: teal;
+    border-radius: 6px;
+    color: white;
+    font-weight: 800;
+}
+
+input{
+    padding: 10px;
+    width: 70%;
+    border-radius:6px ;
+    border: 1px solid black;
+    font-size: 20px;
+    /* margin-top: 20px; */
+}
+
+.important{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
